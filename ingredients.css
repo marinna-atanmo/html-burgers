@@ -1,7 +1,7 @@
 .bun-top {
   height: 70px;
   width: 60%;
-  background: #e5b05a;
+  background: rgb(172, 247, 250);
   border-radius: 100px 100px 20px 20px;
   border-bottom: solid 10px rgba(0,0,0,.1);
 }
@@ -20,13 +20,11 @@
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
-.meatball {
-  height: 60px;
-  width: 70px;
-  background: #74380d;
-  border-radius: 50px;
-  display: inline-block;
-  vertical-align: top;
+.bacon {
+  height: 10px;
+  width: 60%;
+  background: rgb(185, 103, 103);
+  border-bottom: solid 2px reba(0,0,0,.1);
 }
 
 .patty {
@@ -45,16 +43,10 @@
   border-bottom: solid 10px #2d9961;
 }
 
-.onion {
-  width: 40%;
-  background-color: #a039bf;
-  border-top: dotted 20px rgba(255,255,255,.2);
-}
-
 .bun-bottom {
   height: 35px;
   width: 60%;
-  background: #e5b05a;
+  background: rgb(172, 247, 250);
   border-radius: 20px 20px 40px 40px;
   border-top: solid 8px rgba(0,0,0,.1)
 }
